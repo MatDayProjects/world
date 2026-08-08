@@ -1,0 +1,10 @@
+{
+  "tool": "worldlens",
+  "version": 1,
+  "templateVersion": "cad8b52a5bb8dcb3",
+  "files": [
+    ".github/workflows/render-world.yml",
+    ".github/workflows/render-shard-wave.yml"
+  ],
+  "preparedAt": "2026-08-08T00:20:32.436Z"
+}
